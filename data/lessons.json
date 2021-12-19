@@ -1,0 +1,19 @@
+[
+    {
+      "name": "cours privé",
+      "sku": "1_private_course",
+      "price": 4000,
+      "image": "shop/private_lesson.png",
+      "description" : "mdlink ?",
+      "currency": "EUR"
+    },
+    {
+      "name": "cours groupe",
+      "sku": "2_private_course",
+      "price": 2000,
+      "image": "shop/group_lesson.png",
+      "description" : "mdlink ?",
+      "currency": "EUR"
+    }
+  ]
+  
